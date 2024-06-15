@@ -1,4 +1,5 @@
 # Checkers_Board_Game
-Implementation of a console based 8*8 Checkers Game using basic principles of Object-Oriented Programming.
-Aim was to create a playable checkers game with two player functionality.
- 
+**Developed an 8x8 two-player Chinese Checkers console-based game in C++ using OOP principles.
+The game features black and white pieces that move one step diagonally forward, and king and queen
+pieces that move multiple steps diagonally in any direction.**
+
